@@ -40,5 +40,13 @@
             .hash = "1220457c9927ab54acd80f67b372b50399dfe1716fdb97865423b1ae86876a95ca81",
             .lazy = true,
         },
+        .sdl2_prebuilt_x86_64_windows_gnu = .{
+            .url = "git+https://github.com/kkat0/sdl2-prebuilt-x86_64-windows-gnu.git#cbd43bc600ae8063575ca3482c6403ca660e6c9c",
+            .hash = "sdl2_prebuilt_x86_64_windows_gnu-0.1.0-AAAAANKVaQDTOaQ3-K_pL5ku-vxRtp-ub45MIpecOB0Z",
+        },
+        .sdl3_prebuilt_x86_64_windows_gnu = .{
+            .url = "git+https://github.com/kkat0/sdl3-prebuilt-x86_64-windows-gnu.git#927236e1365789e20fcd530cba3a551823cc8ba9",
+            .hash = "sdl3_prebuilt_x86_64_windows_gnu-0.1.0-AAAAAIvmJADE-xqi2Lmpxbo9wG5B13z77R0JFlQzTOdM",
+        },
     },
 }
